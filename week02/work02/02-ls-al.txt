@@ -1,0 +1,10 @@
+total 36
+drwx--x--x  4 luthfi.aulia StafCS 4096 Feb 19 18:14 .
+drwxr-xr-x 11 root         root   4096 Feb 11 11:02 ..
+-rw-------  1 luthfi.aulia StafCS 2316 Feb 16 13:30 .bash_history
+-rw-------  1 luthfi.aulia StafCS 5071 Feb 19 17:44 .viminfo
+-rw-r--r--  1 luthfi.aulia StafCS 1621 Feb 19 18:00 00-toc.txt
+-rw-r--r--  1 luthfi.aulia StafCS 3158 Feb 19 18:13 01-public-osteam.txt
+-rw-r--r--  1 luthfi.aulia StafCS    0 Feb 19 18:14 02-ls-al.txt
+drwxr-xr-x 18 luthfi.aulia StafCS 4096 Feb 16 13:18 os171
+drwxr-xr-x  3 luthfi.aulia StafCS 4096 Feb 19 17:42 work

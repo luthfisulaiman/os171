@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/l/luthfi.aulia/.gnupg/pubring.gpg
+----------------------------------------------------------
+pub   4096R/79CAB761 2017-02-19 [expires: 2017-08-18]
+uid                  Luthfi Aulia Sulaiman (OS Labs yipey-kay-yay) <luthfi.aulia@ui.ac.id>
+sub   4096R/36A2E8B6 2017-02-19 [expires: 2017-08-18]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
