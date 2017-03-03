@@ -1,0 +1,11 @@
+Hello, this is explanation about linux booting!
+
+There are 6 stages of Linux Boot Process:
+1. Boot (Basic I/O System Executes MBR)
+2. MBR (Master Boot Record executes GRUB)
+3. GRUB (Grand Unified Bootloader executes Kernel)
+4. Kernel (Executes /sbin/init)
+5. Init (Executes runlevel programs)
+6. Runlevel (executed from /etc/rc.d/rc*.d/
+
+Source: http://www.thegeekstuff.com/2011/02/linux-boot-process
