@@ -1,0 +1,2 @@
+w04-170307-13-LR-Addressing, Pointer, and I/O Programming with C, From: Lecturer
+w04-170309-13-PS-Adrressing, Pointer, and I/O Programming with C, From: Lecturer

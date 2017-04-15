@@ -1,3 +1,4 @@
 w06-170411-13-PC-About:Practicing Fork Function
 w06-170411-14-PC-About:Practicing Fork Function
 w06-170415-09-LR-About: Self Learning about Multi Threading.
+w06-170415-10-LR-About: Doing the week06 lab session.
